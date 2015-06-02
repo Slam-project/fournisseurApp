@@ -55,6 +55,7 @@
             <property name="Type">TextOnly</property>
             <property name="Label" translatable="yes">Connexion</property>
             <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="bntConnectClicked" />
           </widget>
           <packing>
             <property name="X">90</property>

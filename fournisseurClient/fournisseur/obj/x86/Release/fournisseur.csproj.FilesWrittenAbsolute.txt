@@ -1,0 +1,2 @@
+/Users/HAL/Projects/fournisseurApp/fournisseurClient/fournisseur/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/HAL/Projects/fournisseurApp/fournisseurClient/fournisseur/obj/x86/Release/fournisseur.gtk-gui.gui.stetic

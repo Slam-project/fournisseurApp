@@ -13,4 +13,16 @@ public partial class MainWindow: Gtk.Window
 		Application.Quit ();
 		a.RetVal = true;
 	}
+
+	protected void bntConnectClicked (object sender, EventArgs e)
+	{
+		MainSession mainSession = MainSession.getMainSession ();
+		string packet = "Connect"
+			+ Session.separatorCommandString
+			+ this.login
+			+ Session.separatorCommandString
+			+ this.password;
+		
+		mainSession.Send (packet);
+	}
 }
