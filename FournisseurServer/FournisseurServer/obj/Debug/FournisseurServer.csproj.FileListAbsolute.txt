@@ -1,0 +1,6 @@
+G:\bts\FournisseurServer\FournisseurServer\bin\Debug\FournisseurServer.exe.config
+G:\bts\FournisseurServer\FournisseurServer\bin\Debug\FournisseurServer.exe
+G:\bts\FournisseurServer\FournisseurServer\bin\Debug\FournisseurServer.pdb
+G:\bts\FournisseurServer\FournisseurServer\obj\Debug\FournisseurServer.csprojResolveAssemblyReference.cache
+G:\bts\FournisseurServer\FournisseurServer\obj\Debug\FournisseurServer.exe
+G:\bts\FournisseurServer\FournisseurServer\obj\Debug\FournisseurServer.pdb
